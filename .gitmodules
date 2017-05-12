@@ -1,0 +1,9 @@
+[submodule "THUBeamer"]
+	path = THUBeamer
+	url = https://github.com/tl3shi/THUBeamer.git
+[submodule "thuthesis"]
+	path = thuthesis
+	url = https://github.com/xueruini/thuthesis.git
+[submodule "thulib-latex-talk"]
+	path = thulib-latex-talk
+	url = https://github.com/alick/thulib-latex-talk.git
