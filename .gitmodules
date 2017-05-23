@@ -7,3 +7,6 @@
 [submodule "thulib-latex-talk"]
 	path = thulib-latex-talk
 	url = https://github.com/alick/thulib-latex-talk.git
+[submodule "Metropolis"]
+	path = Metropolis
+	url = https://github.com/matze/mtheme
